@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    
+}
+#contenido{
+width: 900px;
+height: 700px;
+background-color: aqua;
+border: 1px solid white;
+margin: 0 auto;
+}
+#header{
+    width: 900px;
+    height: 150px;
+    background-color: royalblue;
+}
+#menu{
+    width: 900px;
+    height: 50px;
+    background-color: rgb(32, 172, 32);
+}
+#centro{
+    width: 900px;
+    height: 450px;
+    background-color: rgb(211, 99, 24);
+}
+#footer{
+    width: 900px;
+    height: 50px;
+    background-color: rgb(190, 22, 86);
+}
